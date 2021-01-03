@@ -12,4 +12,4 @@ COPY --from=build-stage /app/nginx.conf /etc/nginx/conf.d
 COPY --from=build-stage /app/src/assets /usr/share/nginx/html/assets
 COPY --from=build-stage /app/dist /usr/share/nginx/html
 EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["nginx","-c","/etc/nginx/conf.d/nginx.conf", "-g", "daemon off;"]
