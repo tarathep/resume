@@ -24,7 +24,8 @@ export default {
     About,
     Skill,
     Resume,
-    Portfolio
+    Portfolio,
+    
   },
   mounted() {
     // Preloader

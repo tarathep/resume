@@ -8,36 +8,8 @@
 
     <div class="row">
         <div class="col-lg-6">
-            <h3 class="resume-title">Cert & Event</h3>
-            <div class="resume-item pb-0">
-                <h4>DevSecOps Bootcamp 2020</h4>
-                <h5>2020</h5>
-                <p>DevSecOps demo project , implement and improve with tools security and CI/CD with Jenkins tools Powered By AIS</p>
-                <p style="text-align: center;"><img src="/src/assets/img/cert/dsobc.jpg" width="60%"></p>
-            </div>
-            <div class="resume-item pb-0">
-                <h4>DevOps Automation Engineer Training</h4>
-                <h5>2020</h5>
-                <p style="text-align: center;"><img src="/src/assets/img/cert/doamte.jpg" width="60%"></p>
-            </div>
-            <div class="resume-item pb-0">
-                <h4>TOT Hackathon 2019</h4>
-                <h5>2019</h5>
-                <p>find solution security logging system using Blockchan technology improve with log windows OS from demo example.</p>
-                <!-- <p><img src="./assets/img/cert/" width="60%"></p> -->
-            </div>
-            <div class="resume-item pb-0">
-                <h4>Financial Security Boot Camp #1</h4>
-                <h5>2018</h5>
-                <p>Find solution and presentaion in title Security demo basic project logging using Blockchan , powered by BOT,SEC,OIC</p>
-                <p style="text-align: center;"><img src="/src/assets/img/cert/fcsbc.jpg" width="60%"></p>
-            </div>
-            <div class="resume-item pb-0">
-                <h4>ACM icpc Programming contest</h4>
-                <h5>2016</h5>
-                <p>Question find sulution from sovle problem with programing by improve with logical , algolithm , performance , others , sponsor by IBM , Chula Engineering</p>
-            </div>
 
+            <!-- Education -->
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
                 <h4>Bachelor of Science in Infomation Technology</h4>
@@ -51,8 +23,8 @@
                 <p><em>Sarawittaya School, Bangkok, TH</em></p>
                 <p>Sarawittaya School is high school studied a basic class course for future development, such as Math, Eng, Science , Thai , Social , Career , ..</p>
             </div>
-        </div>
-        <div class="col-lg-6">
+
+            <!-- Professional Experience -->
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
                 <h4>Programmer Analyst, Devops, Fullstack Dev</h4>
@@ -86,13 +58,49 @@
                 </ul>
                 <p style="text-align: center;"><img src="/src/assets/img/cert/ahost.jpg" width="60%"></p>
             </div>
+
         </div>
+        <div class="col-lg-6">
+            <!-- Cert & Event -->
+            <h3 class="resume-title">Cert & Event</h3>
+            <div class="resume-item pb-0">
+                <h4>DevSecOps Bootcamp 2020</h4>
+                <h5>2020</h5>
+                <p>DevSecOps demo project , implement and improve with tools security and CI/CD with Jenkins tools Powered By AIS</p>
+                <p style="text-align: center;"><img src="/src/assets/img/cert/dsobc.jpg" width="60%"></p>
+            </div>
+            <div class="resume-item pb-0">
+                <h4>DevOps Automation Engineer Training</h4>
+                <h5>2020</h5>
+                <p style="text-align: center;"><img src="/src/assets/img/cert/doamte.jpg" width="60%"></p>
+            </div>
+            <div class="resume-item pb-0">
+                <h4>TOT Hackathon 2019</h4>
+                <h5>2019</h5>
+                <p>find solution security logging system using Blockchan technology improve with log windows OS from demo example.</p>
+                <!-- <p><img src="./assets/img/cert/" width="60%"></p> -->
+            </div>
+            <div class="resume-item pb-0">
+                <h4>Financial Security Boot Camp #1</h4>
+                <h5>2018</h5>
+                <p>Find solution and presentaion in title Security demo basic project logging using Blockchan , powered by BOT,SEC,OIC</p>
+                <p style="text-align: center;"><img src="/src/assets/img/cert/fcsbc.jpg" width="60%"></p>
+            </div>
+            <div class="resume-item pb-0">
+                <h4>ACM icpc Programming contest</h4>
+                <h5>2016</h5>
+                <p>Question find sulution from sovle problem with programing by improve with logical , algolithm , performance , others , sponsor by IBM , Chula Engineering</p>
+            </div>
+        </div>
+
+        
     </div>
 
 </div>
 </template>
 
 <script>
+
 export default {
     name: 'Resume'
 }
