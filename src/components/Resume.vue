@@ -56,7 +56,7 @@
                         HyperV)</li>
                     <li>Resarch Migration Dotnet Framework to DotNet Core (ASP.NET)</li>
                 </ul>
-                <p style="text-align: center;"><img src="/src/assets/img/cert/ahost.jpg" width="60%"></p>
+                <p style="text-align: center;"><img :src="'/src/assets/img/cert/ahost.jpg'" style="width:60%;"></p>
             </div>
 
         </div>
@@ -67,12 +67,12 @@
                 <h4>DevSecOps Bootcamp 2020</h4>
                 <h5>2020</h5>
                 <p>DevSecOps demo project , implement and improve with tools security and CI/CD with Jenkins tools Powered By AIS</p>
-                <p style="text-align: center;"><img src="/src/assets/img/cert/dsobc.jpg" width="60%"></p>
+                <p style="text-align: center;"><img :src="'/src/assets/img/cert/dsobc.jpg'" width="60%"></p>
             </div>
             <div class="resume-item pb-0">
                 <h4>DevOps Automation Engineer Training</h4>
                 <h5>2020</h5>
-                <p style="text-align: center;"><img src="/src/assets/img/cert/doamte.jpg" width="60%"></p>
+                <p style="text-align: center;"><img :src="'/src/assets/img/cert/doamte.jpg'" width="60%"></p>
             </div>
             <div class="resume-item pb-0">
                 <h4>TOT Hackathon 2019</h4>
@@ -84,7 +84,7 @@
                 <h4>Financial Security Boot Camp #1</h4>
                 <h5>2018</h5>
                 <p>Find solution and presentaion in title Security demo basic project logging using Blockchan , powered by BOT,SEC,OIC</p>
-                <p style="text-align: center;"><img src="/src/assets/img/cert/fcsbc.jpg" width="60%"></p>
+                <p style="text-align: center;"><img :src="'/src/assets/img/cert/fcsbc.jpg'" width="60%"></p>
             </div>
             <div class="resume-item pb-0">
                 <h4>ACM icpc Programming contest</h4>
