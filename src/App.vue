@@ -5,8 +5,9 @@
   <section id="skills" class="skills section-bg"><Skill></Skill></section>
   <section id="resume" class="resume"><Resume></Resume></section>
   <section id="portfolio" class="portfolio section-bg"><Portfolio></Portfolio></section>
+  <section id="services" class="services"><Services></Services></section>
+  <section id="contact" class="contact"><Contact></Contact></section>
 
-<span id="xxx"></span>
 </template>
 
 <script>
@@ -15,6 +16,9 @@ import About from './components/About.vue'
 import Skill from './components/Skill.vue'
 import Resume from './components/Resume.vue'
 import Portfolio from './components/Portfolio.vue'
+import Services from './components/Services.vue'
+import Contact from './components/Contact.vue'
+
 
 
 export default {
@@ -25,7 +29,8 @@ export default {
     Skill,
     Resume,
     Portfolio,
-    
+    Services,
+    Contact
   },
   mounted() {
     // Preloader
