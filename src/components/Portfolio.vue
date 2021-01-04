@@ -117,6 +117,41 @@ This site was built on econline.org."
           detail="ระบบวิเคราห์ตรวจสอบบุคคลผ่านใบหน้านี้เป็นตัวอย่างการนำระบบ Facial Recognition System ของทาง OpenCV มาทำการทดสอบและลองใช้งานเพื่อเป็นตัวอย่าง ซึ่งสามารถเอาไป implement ร่วมกับ กล้อง เช่น การ checkพนักงานเข้าทำงาน,การตรวจสอบ Authen บุคคล,และอื่นๆเป็นต้น"
           link="https://github.com/tarathep/Facial-Recognition-System"/>
 
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-p" 
+          img="\src\assets\img\portfolio\ecustom.JPG" 
+          header="E-Custom Web Application(ASP.NET)" 
+          detail="Develop E-Custom Web Application for transection, product export report to Customs Government by Shipping with team A-Host Company Limited., implement by ASP.NET MVC5 Entity Framework."
+          link="https://www.tiffaedi.com"/>
+
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-p" 
+          img="\src\assets\img\portfolio\gpf.JPG" 
+          header="GPF Web Application(ASP.NET)" 
+          detail="GPF is system web app for help pensioner manage fund, with team A-Host Company Limited. , must have don’t risk security (OWASP) ,developed by ASP.NET"
+          link="https://mygpf.gpf.or.th/"/>
+
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-p" 
+          img="\src\assets\img\portfolio\ecoserver.JPG" 
+          header="SAGA ECO Server" 
+          detail="The saga eco server is application console for service on game online private server using C#.NET net socket between client to server."
+          link="#"/>
+
+           <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-p" 
+          img="\src\assets\img\portfolio\minidict.JPG" 
+          header="JTDIC Mini(WPF From App)" 
+          detail="JTDIC mini is fast and easy for use by click connect to pen button"
+          link="#"/>
+
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-p" 
+          img="\src\assets\img\portfolio\addrdata.JPG" 
+          header="Address Analysis Text File to SQLite" 
+          detail="Analysis word address format from text file and convert insert to SQLite database using by python"
+          link="#"/>
+
           
 
 

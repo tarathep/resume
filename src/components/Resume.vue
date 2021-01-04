@@ -26,6 +26,15 @@
 
             <!-- Professional Experience -->
             <h3 class="resume-title">Professional Experience</h3>
+            <!-- lecturer -->
+            <!-- <div class="resume-item">
+                <h4>Special Guest Lecturer</h4>
+                <h5>2020 - Present</h5>
+                <p><em>Master of Science Program in Web Engineering and Mobile Application Development , <a href="https://ant.dpu.ac.th/">ant.dpu.ac.th</a> , Dhurakij Pundit University</em></p>
+                <ul>
+                    <li>Automate Testing Course , ATDD with Robot Framework</li>
+                </ul>
+            </div> -->
             <div class="resume-item">
                 <h4>Programmer Analyst, Devops, Fullstack Dev</h4>
                 <h5>2019 - Present</h5>
@@ -78,6 +87,7 @@
                 <h4>TOT Hackathon 2019</h4>
                 <h5>2019</h5>
                 <p>find solution security logging system using Blockchan technology improve with log windows OS from demo example.</p>
+                <p style="text-align: center;"><img :src="'/src/assets/img/cert/tothackathon.jpg'" style="width:60%;"></p>
             </div>
             <div class="resume-item pb-0">
                 <h4>Financial Security Boot Camp #1</h4>
@@ -89,6 +99,8 @@
                 <h4>ACM icpc Programming contest</h4>
                 <h5>2016</h5>
                 <p>Question find sulution from sovle problem with programing by improve with logical , algolithm , performance , others , sponsor by IBM , Chula Engineering</p>
+                <p style="text-align: center;"><img :src="'/src/assets/img/cert/acm.jpg'" style="width:35%;"></p>
+            
             </div>
         </div>
 
