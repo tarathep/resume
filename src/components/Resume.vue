@@ -27,14 +27,14 @@
             <!-- Professional Experience -->
             <h3 class="resume-title">Professional Experience</h3>
             <!-- lecturer -->
-            <!-- <div class="resume-item">
+            <div class="resume-item">
                 <h4>Special Guest Lecturer</h4>
                 <h5>2020 - Present</h5>
                 <p><em>Master of Science Program in Web Engineering and Mobile Application Development , <a href="https://ant.dpu.ac.th/">ant.dpu.ac.th</a> , Dhurakij Pundit University</em></p>
                 <ul>
                     <li>Automate Testing Course , ATDD with Robot Framework</li>
                 </ul>
-            </div> -->
+            </div>
             <div class="resume-item">
                 <h4>Programmer Analyst, Devops, Fullstack Dev</h4>
                 <h5>2019 - Present</h5>
