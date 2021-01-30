@@ -12,7 +12,7 @@
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-c">Course Training</li>
               <li data-filter=".filter-p">Projects</li>
-              <li data-filter=".filter-d">System Design</li>
+              <li data-filter=".filter-d">Infrastructure / Design</li>
             </ul>
           </div>
         </div>
@@ -151,6 +151,36 @@ This site was built on econline.org."
           header="Address Analysis Text File to SQLite" 
           detail="Analysis word address format from text file and convert insert to SQLite database using by python"
           link="#"/>
+
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-d" 
+          img="\src\assets\img\portfolio\graylog-cendev.gif" 
+          header="Centailze Log Monitoring Graylog on lego project on prime and AWS" 
+          detail="Graylog for Centailze Log Monitoring apps output at stdout"
+          link="#"/>
+
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-p" 
+          img="\src\assets\img\portfolio\nocp-eclaim-project -backend.gif" 
+          header="NOCP Afftersale service e-claim on prime and AWS" 
+          detail="support AIS users for claims devices comunicate with warehourse backend using springboot framework design by microservice arch."
+          link="#"/>
+
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-p" 
+          img="\src\assets\img\portfolio\nocp-eclaim-project-frontend.gif" 
+          header="NOCP Afftersale service e-claim on prime and AWS" 
+          detail="support AIS users for claims devices comunicate with warehourse fronend using angular framework design by microservice arch."
+          link="#"/>
+
+          <PortfolioObject 
+          fillter="col-lg-4 col-md-6 portfolio-item filter-d" 
+          img="\src\assets\img\portfolio\backapp-jenkins.gif" 
+          header="Jenkins pipeline on project NOCP" 
+          detail="automation step for deploy to projects step CI on dev zone"
+          link="#"/>
+
+
 
           
 
