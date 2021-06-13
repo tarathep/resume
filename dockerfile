@@ -6,7 +6,7 @@ COPY . .
 RUN npm run build
 
 # production stage
-FROM nginx:stable-alpine as production-stage
+FROM nginx:1.21.0-alpine as production-stage
 RUN mkdir /usr/share/nginx/html/src
 COPY --from=build-stage /app/nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=build-stage app/src/assets /usr/share/nginx/html/src/assets
